@@ -7,6 +7,7 @@ $productos=[
 ["nombre"=>"Monitor","precio"=>800,"stock"=>3]
 ];
 
+
 $totalInventario=0;
 echo "<table border='1'><tr><th>Producto</th><th>Precio</th><th>Stock</th><th>Estado</th></tr>";
 
